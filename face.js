@@ -1,3 +1,4 @@
-console.log('hehe');
-
-console.log(111)
+console.log("hhe");
+function(a,c){
+	console.log(a);
+}
